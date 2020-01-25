@@ -1,0 +1,14 @@
+C:\Users\Tomasic\source\repos\ShipWars\ShipWars\bin\Debug\ShipWars.exe
+C:\Users\Tomasic\source\repos\ShipWars\ShipWars\bin\Debug\ShipWars.exe.config
+C:\Users\Tomasic\source\repos\ShipWars\ShipWars\obj\Debug\ShipWars.Form1.resources
+C:\Users\Tomasic\source\repos\ShipWars\ShipWars\obj\Debug\ShipWars.Properties.Resources.resources
+C:\Users\Tomasic\source\repos\ShipWars\ShipWars\obj\Debug\ShipWars.csproj.GenerateResource.cache
+C:\Users\Tomasic\source\repos\ShipWars\ShipWars\obj\Debug\ShipWars.csproj.CoreCompileInputs.cache
+C:\Users\Tomasic\source\repos\ShipWars\ShipWars\obj\Debug\ShipWars.exe
+C:\Users\Tomasic\source\repos\ShipWars\ShipWars\obj\Debug\ShipWars.pdb
+C:\Users\Tomasic\source\repos\ShipWars\ShipWars\bin\Debug\ShipWars.pdb
+C:\Users\Tomasic\source\repos\ShipWars\ShipWars\obj\Debug\ShipWars.csprojAssemblyReference.cache
+C:\Users\Tomasic\source\repos\ShipWars\ShipWars\bin\Debug\IronPython.dll
+C:\Users\Tomasic\source\repos\ShipWars\ShipWars\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Tomasic\source\repos\ShipWars\ShipWars\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Tomasic\source\repos\ShipWars\ShipWars\obj\Debug\ShipWars.csproj.CopyComplete
